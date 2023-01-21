@@ -5,4 +5,4 @@ Já participei de vários projetos de implantação de novos sistemas, fiz progr
 queries de SQL integradas com bancos do Totvs e SAP, inclusive fui mais recentemente key user do SAP.
 Como tenho uma boa vivência nesse campo, pretendo voltar ao mercado e por isso estou fazendo vários cursos e agora adquirindo bastante conhecimento 
 no curso Eucodo do Charles, um profissional com muita experiência e didática.
-Espero com isso estar pronto para uma nova experiência e mudança de area
+Espero com isso estar pronto para uma nova experiência e mudança de area em breve
